@@ -1,0 +1,11 @@
+# Ignore nested Planary repo; it has its own repository
+Planary/
+
+# Common ignores
+.DS_Store
+Thumbs.db
+.vscode/
+node_modules/
+__pycache__/
+*.pyc
+.env
